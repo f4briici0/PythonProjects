@@ -9,6 +9,10 @@ except Exception as e:
     print("Error:", e)
 
 
+# Mostrar Libs não instaladas
+# Converter mp4 para mp3
+#Mudar nome do programa
+
 # FAZER O DOWNLOAD A DIFERENCIAÇÃO DE VÍDEO E PLAYLIST
 # 
 
